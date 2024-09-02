@@ -1,4 +1,4 @@
-public class task116{
+public class Task116{
     public static void main(String[] args) {
         String input = "Flag";
 
